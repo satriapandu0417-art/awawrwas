@@ -72,7 +72,7 @@ const About: React.FC<AboutProps> = ({ stats, paragraphs }) => {
             <motion.img 
               whileHover={{ scale: 1.05 }}
               transition={{ duration: 0.5 }}
-              src="https://picsum.photos/seed/maritime/800/1000" 
+              src="https://media.discordapp.net/attachments/1469753557292159042/1474136252977778889/WhatsApp_Image_2026-02-20_at_03.10.48.jpeg?ex=6998bfde&is=69976e5e&hm=00d822023e1c94e93570e6fd163e137fa93352c25387d1cda476522320b84239&=&format=webp&width=650&height=866" 
               alt="Professional Profile" 
               className="w-full h-auto object-cover" 
             />
